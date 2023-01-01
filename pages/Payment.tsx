@@ -28,7 +28,7 @@ const Payment: React.FunctionComponent<IPaymentProps> = (props) => {
             <p className='text-2xl font-bold text-white' >{id}</p>
         </div>
         <div className='flex flex-col w-1/2 h-screen justify-center bg-gray-100 items-center' >
-            <Wrapper/>
+            <Wrapper />
         </div>
     </div>
     </>
